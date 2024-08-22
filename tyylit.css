@@ -1,0 +1,10 @@
+body {background-color:skyblue;}
+h3 {font-size: 23px;}
+h4{font-size: 20px;}
+h5{font-size: 18px;}
+h1, h2, h3, h4, h5, p {text-align: center;}
+h1, h2 ,h3 ,h4 ,h5{color: crimson;}
+p {font-family: sans-serif;}
+a:visited{color:chartreuse}
+a:hover{color: yellow;}
+a{color: rgb(204, 11, 204);}
